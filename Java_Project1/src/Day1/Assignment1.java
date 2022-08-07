@@ -6,7 +6,10 @@ public class Assignment1 {
 	
 	public void sum() {
 		System.out.println("This is sum method");
+		System.out.println("I am sharing the latest code");
 	}
+	
+	
 
 	public static void main(String[] args) {
 		
